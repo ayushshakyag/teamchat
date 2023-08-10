@@ -30,7 +30,7 @@ body, html {
 
 .chat-container {
   display: grid;
-  grid-template-rows: 70% auto 30%; /* Chat messages, Empty space, Input container */
+  grid-template-rows: 70% auto 30%;
   position: relative;
   overflow: hidden;
   background-color: #fff;
